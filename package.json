@@ -1,0 +1,24 @@
+{
+  "name": "bookmarklet-generator",
+  "version": "1.0.0",
+  "description": "Generates url-encoded bookmarklets, which are bookmarks for your browser that, when clicked, execute JavaScript on the current webpage.",
+  "main": "generate-bookmarklet.js",
+  "scripts": {
+    "generate-bookmarklet": "node generate-bookmarklet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjloneman/bookmarklet-generator.git"
+  },
+  "keywords": [
+    "bookmark",
+    "bookmarklet"
+  ],
+  "author": "JJ Loneman <jjloneman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjloneman/bookmarklet-generator/issues"
+  },
+  "homepage": "https://github.com/jjloneman/bookmarklet-generator#readme"
+}
